@@ -1,0 +1,17 @@
+{
+	id: "e887af10-a237-3eb9-8de1-45bec3a15fc4"
+	type: "player"
+	player_name: "Phoenix_B_S"
+	ranks: {
+		e887af10-a237-3eb9-8de1-45bec3a15fc4: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Phoenix_B_S"
+		"ftbteams:description": ""
+		"ftbteams:color": "#F659FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
